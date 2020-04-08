@@ -3,10 +3,10 @@
 # This repository is being created by Maneesh V. Sharma for the purpose of submission of Project under GETTING AND CLEANING DATA COURSE. 
 # It contains the set of instructions (STEP 1 TO STEP 5) on how to run the analysis on said Data Set. 
 
-Dataset
+DATASET-
 Human Activity Recognition Using Smartphones
 
-Files
+FILES-
 CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
 run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
